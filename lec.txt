@@ -1,0 +1,5 @@
+% git add -A
+% git reset head index.html
+% git checkout index.html
+
+index.htmlが変更前になってる！
