@@ -3,3 +3,8 @@
 % git checkout index.html
 
 index.htmlが変更前になってる！
+
+
+Get-ChildItem ._*.png -Attributes Hidden -Recurse | Remove-Item -Force
+
+隠しファイルが削除できる！
